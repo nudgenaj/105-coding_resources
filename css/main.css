@@ -72,6 +72,7 @@ header a:hover {
 nav {
     width: 100%;
     padding: 10px 0;
+    font-family: 'Merriweather', serif;
 }
 
 nav ul {
@@ -178,12 +179,11 @@ header h2 span {
 
 .copyright {
     padding-bottom: 20px;
-    font-size: 0.9em;
+    font-size: 0.7em;
 }
 
 .credit {
     color: #9c9797;
-    font-size: 0.8em;
 }
 
 /****** About ******/
